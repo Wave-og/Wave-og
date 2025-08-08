@@ -20,7 +20,7 @@
 -- Senior Developer Profile
 local cfx_gambler = {
     alias = "Cfx.gambler",
-    title = "Senior Full-Stack Developer & FiveM Architect",
+    title = "Senior Full-Stack Developer & FiveM Developer",
     location = "Germany 🇩🇪",
     experience = "5+ years professional development",
     
@@ -82,7 +82,7 @@ local cfx_gambler = {
 ### 🔥 Current Active Projects
 | 🚀 Server | 🎯 Role | 💎 Features Developed |
 |-----------|---------|----------------------|
-| **🔴 Ovara Service** | Suuporter | Custom frameworks, optimization systems |
+| **🔴 Ovara Service** | Supporter | Custom frameworks, optimization systems |
 | **⚡ MV Roleplay** | Full-Stack Developer | Full-Server, Custom Scripts |
 
 ### 💀 Previous Collaborations
